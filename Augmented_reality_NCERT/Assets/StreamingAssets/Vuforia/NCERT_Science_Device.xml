@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CHP_6_STMTA" size="50.000000 36.022255" />
+    <ImageTarget name="CHP_6_RSPRTN" size="50.000000 57.162727" />
+    <ImageTarget name="CHP_6_RSPRHUM" size="50.000000 43.671768" />
+    <ImageTarget name="CHP_6_MSRBP" size="50.000000 45.897079" />
+    <ImageTarget name="CHP_6_KCl_EXP" size="50.000000 54.652779" />
+    <ImageTarget name="CHP_6_LNG" size="50.000000 51.597221" />
+    <ImageTarget name="CHP_6_HEART" size="50.000000 47.777779" />
+    <ImageTarget name="CHP_6_DIALS" size="50.000000 53.819443" />
+    <ImageTarget name="CHP_6_DGSTVSYS" size="50.000000 57.018929" />
+    <ImageTarget name="CHP_6_DB_CRCL" size="50.000000 58.194443" />
+    <ImageTarget name="CHP_6_STRCH" size="50.000000 49.513214" />
+    <ImageTarget name="CH7_TOUCH_ME_NOT" size="50.000000 37.691238" />
+    <ImageTarget name="CH7_REFLEX_ARC" size="50.000000 42.767735" />
+    <ImageTarget name="CH7_BRAIN" size="50.000000 55.803570" />
+    <ImageTarget name="CH7_NEURON" size="50.000000 18.194445" />
+    <ImageTarget name="CHP_6_CSOL" size="50.000000 52.330334" />
+  </Tracking>
+</QCARConfig>
